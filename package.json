@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jsonresume-theme-papirus": "^0.0.5",
+    "resumed": "^3.0.1",
+    "puppeteer": "^13.0.0"
+  }
+}
