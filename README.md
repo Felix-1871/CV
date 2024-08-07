@@ -1,7 +1,7 @@
 # CV templating system
 
 https://www.pluralsight.com/resources/blog/guides/install-npm-packages-from-gitgithub
-
+http://jsonresume.org/
 ## Workflow
 
 - `npm i -g resumed *npm package from private repo*`
