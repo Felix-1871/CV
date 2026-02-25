@@ -1,8 +1,5 @@
 node_modules/
-Normal
-OLD
-RODO
 package-lock.json
-resume.html
-resume.json
-resume.pdf
+Resumes/*
+Templates/*
+.DS_Store

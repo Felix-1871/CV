@@ -1,17 +1,8 @@
 # CV templating system
 
-https://www.pluralsight.com/resources/blog/guides/install-npm-packages-from-gitgithub
 http://jsonresume.org/
 ## Workflow
 
-- `npm i -g resumed *npm package from private repo*`
+- `npm i -g resumed`
 - `npm i` 
-
-### For .html
-
-- `resumed render resume.json --theme jsonresume-theme-papirus`
-
-### For .pdf
- 
-- `npm run start`
-
+- Run bash script or alias it
