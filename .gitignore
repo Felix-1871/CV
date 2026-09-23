@@ -1,5 +1,10 @@
 node_modules/
 package-lock.json
-Resumes/*
-Templates/*
+# Keep the Resumes/ and Templates/ folder structure (via .gitkeep), ignore everything in it
+Resumes/**
+Templates/**
+!Resumes/**/
+!Templates/**/
+!Resumes/**/.gitkeep
+!Templates/**/.gitkeep
 .DS_Store
