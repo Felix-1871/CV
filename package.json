@@ -1,8 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "jsonresume-theme-papirus-feli": "github:Felix-1871/jsonresume-theme-papirus",
-    "jsonresume-theme-papirus-feli-pl": "github:Felix-1871/jsonresume-theme-papirus#pl",
+    "jsonresume-theme-papirus-feli": "file:themes/papirus-en",
+    "jsonresume-theme-papirus-feli-pl": "file:themes/papirus-pl",
     "minimist": "^1.2.8",
     "puppeteer": "^13.0.0",
     "resumed": "^3.0.1"

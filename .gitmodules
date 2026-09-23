@@ -1,0 +1,8 @@
+[submodule "themes/papirus-en"]
+	path = themes/papirus-en
+	url = https://github.com/Felix-1871/jsonresume-theme-papirus.git
+	branch = main
+[submodule "themes/papirus-pl"]
+	path = themes/papirus-pl
+	url = https://github.com/Felix-1871/jsonresume-theme-papirus.git
+	branch = pl
